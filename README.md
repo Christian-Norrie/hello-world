@@ -1,3 +1,3 @@
 # hello-world
 just another repository 
-hi there just learning new things and making changes to my github profile. very fun and learning lots!
+Hi there just learning new things and making changes to my github profile. Very fun and learning lots!
